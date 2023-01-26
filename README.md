@@ -32,4 +32,4 @@ Ylläoleva kuva vaihtuu sitä mukaa avataanko tämä sivu lightmodessa vai darkm
 — Gandalf, A New Hope
 
 
-![Tämä on Googlesta haettu kuva](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjoin&psig=AOvVaw37jbTbcjSwzx9ed1RY3qAc&ust=1674851614705000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJinmdSK5vwCFQAAAAAdAAAAABAI)
+![Tämä on Googlesta haettu kuva](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
