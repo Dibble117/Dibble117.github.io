@@ -22,7 +22,7 @@ Ylläoleva kuva vaihtuu sitä mukaa avataanko tämä sivu päivällä vai illall
 <details>
 <summary>Testi Drop-down menu</summary>
 
-# Jos näet tämän, onnistuit painamaan nuolta!
+~~Jos näet tämän, onnistuit painamaan nuolta!~~
 
 </details>
 
