@@ -22,7 +22,7 @@ Ylläoleva kuva vaihtuu sitä mukaa avataanko tämä sivu lightmodessa vai darkm
 <details>
 <summary>Testi Drop-down menu</summary>
 
-~~Jos näet tämän, onnistuit painamaan nuolta!~~
+Jos näet tämän, onnistuit painamaan nuolta!
 
 </details>
 
@@ -33,3 +33,11 @@ Ylläoleva kuva vaihtuu sitä mukaa avataanko tämä sivu lightmodessa vai darkm
 
 
 ![Tämä on Googlesta haettu kuva](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
+
+1. Olipa kerran
+   - nested lista
+     - joka jatkui
+       - ja jatkui
+         - kunnes kirjoittaja
+           - ei enää
+             - jaksanut jatkaa listaa eteenpäin
