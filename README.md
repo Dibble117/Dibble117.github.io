@@ -10,7 +10,7 @@
 ## *Tämä on pilvipalvelukurssin Bundle E -tehtävä.*
 
 ```
-Ylläoleva kuva vaihtuu sitä mukaa avataanko tämä sivu päivällä vai illalla. PS. tämän rivin voi kopioida tuosta ->
+Ylläoleva kuva vaihtuu sitä mukaa avataanko tämä sivu lightmodessa vai darkmodessa (aurinko tai kuu).
 ```
 
 | Rank | Testitaulukko |
