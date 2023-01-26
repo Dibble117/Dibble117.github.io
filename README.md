@@ -22,16 +22,20 @@ Ylläoleva kuva vaihtuu sitä mukaa avataanko tämä sivu lightmodessa vai darkm
 <details>
 <summary>Testi Drop-down menu</summary>
 
-Jos näet tämän, onnistuit painamaan nuolta!
+Jos näet tämän, onnistuit painamaan nuolta! Hieno juttu!
 
 </details>
 
 ---
+
 > You're a wizard, Harry.
 
 — Gandalf, A New Hope
 
+---
 
+
+#### Voit klikata alla olevaa kuvaa
 ![Tämä on Googlesta haettu kuva](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
 
 1. Olipa kerran
