@@ -35,7 +35,8 @@ Jos näet tämän, onnistuit painamaan nuolta! Hieno juttu!
 ---
 
 
-#### Voit klikata alla olevaa kuvaa
+[Tämä linkki vie alla olevan kuvan nettiosoitteeseen](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
+
 ![Tämä on Googlesta haettu kuva](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
 
 1. Olipa kerran
