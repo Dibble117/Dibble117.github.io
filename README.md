@@ -45,7 +45,7 @@ Jos näet tämän, onnistuit painamaan nuolta!
 ---
 
 - [x] Pääsit tänne asti sivulla 🎉
-- [ ] Pääsit loppuun asti
+- [ ] Pääsit loppuun asti ☹️
 
 ---
 
