@@ -16,8 +16,8 @@ Ylläoleva kuva vaihtuu sitä mukaa avataanko tämä sivu lightmodessa vai darkm
 | Rank | Testitaulukko |
 |-----:|---------------|
 |     ~~1~~|         ~~Yksi~~      |
-|     2|       Kaksi        |
-|     3|            Kolme   |
+|     **2**|       **Kaksi**        |
+|     _3_|            _Kolme_   |
 
 <details>
 <summary>Testi Drop-down menu</summary>
@@ -39,5 +39,15 @@ Jos näet tämän, onnistuit painamaan nuolta!
      - joka jatkui
        - ja jatkui
          - kunnes kirjoittaja
-           - ei enää
-             - jaksanut jatkaa listaa eteenpäin
+           - ei enää jaksanut
+             - jatkaa listaa eteenpäin
+---
+
+- [x] Pääsit tänne asti sivulla :tada:
+- [ ] Pääsit loppuun asti
+
+---
+
+- [x] No okei pääsit loppuun asti! 🥳👍
+
+---
