@@ -41,9 +41,10 @@ Jos näet tämän, onnistuit painamaan nuolta!
          - kunnes kirjoittaja
            - ei enää jaksanut
              - jatkaa listaa eteenpäin
+
 ---
 
-- [x] Pääsit tänne asti sivulla :tada:
+- [x] Pääsit tänne asti sivulla 🎉
 - [ ] Pääsit loppuun asti
 
 ---
