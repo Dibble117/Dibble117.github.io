@@ -24,6 +24,6 @@ Ylläoleva kuva vaihtuu sitä mukaa avataanko tämä sivu päivällä vai illall
 </details>
 
 ---
-> Do or do not, there is no try
+> You're a wizard, Harry.
 
-— Yoda
+— Gandalf, A New Hope
